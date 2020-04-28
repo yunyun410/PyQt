@@ -13,8 +13,6 @@ https://pyqt.site 论坛是专门针对PyQt5学习和提升开设的网站，分
 
 ## 微信博客小程序
 
-<img src="Donate/wxblog.jpg" height="250" width="250">
-
 [客户端下载](https://github.com/PyQt5/PyQtClient/releases)
 
 [自定义控件](https://github.com/PyQt5/CustomWidgets)
